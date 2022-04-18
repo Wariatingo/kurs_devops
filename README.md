@@ -1,2 +1,2 @@
 # kurs_devops
-Branch: hotfix
+Branch: feature
